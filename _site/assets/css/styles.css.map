@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n\nbody {\n    padding-top: 70px;\n    \n}\n",
+		".current {\n    color: green;\n  }"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACb;;ADAH,AAAA,IAAI,CAAC,EACD,WAAW,EAAE,IAAI,GAEpB"
+}
